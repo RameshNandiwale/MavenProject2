@@ -75,12 +75,12 @@
 </project>
 <distributionManagement>
     <repository>
-      <id>nexus</id>
+      <id>FirstRepo</id>
       <name>Releases</name>
       <url>http://localhost:8085/repository/FirstRepo-Release/</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>FirstRepo</id>
       <name>Snapshot</name>
       <url>http://localhost:8085/repository/FirstRepo-Snapshot/</url>
     </snapshotRepository>
