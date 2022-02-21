@@ -85,3 +85,6 @@
       <url>http://localhost:8085/repository/FirstRepo-Snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
+
+
+</project>
